@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.starrymoon92.hotbarinfo.mixin",
+	"package": "net.starrymoon92.infohotbar.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

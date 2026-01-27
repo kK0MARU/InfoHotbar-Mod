@@ -1,0 +1,16 @@
+{
+  "mod.infohotbar.name": "Настройки InfoHotbar",
+  "option.infohotbar.general": "Общие",
+  "option.infohotbar.enable": "Включить интерфейс",
+  "option.infohotbar.color": "Цвет текста",
+  "option.infohotbar.y_offset": "Отступ по вертикали (Y)",
+  "option.infohotbar.y_offset.tooltip": "Позиция относительно низа экрана",
+  "option.infohotbar.x_offset": "Отступ по горизонтали (X)",
+  "option.infohotbar.format": "Формат текста",
+  "option.infohotbar.format.tooltip": "Замены: {x}, {y}, {z}, {dir} - сторона, {light} - свет, {nether} - коорд. портала, {realtime} - реальное время, {biome}, {day}, {fps}, {gametime} - игровое время",
+  "text.infohotbar.direction.north": "Север",
+  "text.infohotbar.direction.south": "Юг",
+  "text.infohotbar.direction.east": "Восток",
+  "text.infohotbar.direction.west": "Запад",
+  "modmenu.description.infohotbar": "Минималистичный мод, показывающий координаты, время, биом и другую полезную информацию прямо над хотбаром."
+}

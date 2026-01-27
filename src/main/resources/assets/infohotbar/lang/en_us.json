@@ -1,0 +1,16 @@
+{
+  "mod.infohotbar.name": "InfoHotbar Settings",
+  "option.infohotbar.general": "General",
+  "option.infohotbar.enable": "Enable HUD",
+  "option.infohotbar.color": "Text Color",
+  "option.infohotbar.y_offset": "Y Offset",
+  "option.infohotbar.y_offset.tooltip": "Vertical position relative to the bottom of the screen",
+  "option.infohotbar.x_offset": "X Offset",
+  "option.infohotbar.format": "Format String",
+  "option.infohotbar.format.tooltip": "Placeholders: {x}, {y}, {z}, {dir}, {light}, {nether}, {realtime}, {biome}, {day}, {fps}, {gametime}",
+  "text.infohotbar.direction.north": "North",
+  "text.infohotbar.direction.south": "South",
+  "text.infohotbar.direction.east": "East",
+  "text.infohotbar.direction.west": "West",
+  "modmenu.description.infohotbar": "Minimalist HUD utility displaying coordinates, time, biome, and other useful info above the hotbar."
+}

@@ -1,32 +1,35 @@
 {
 	"schemaVersion": 1,
-	"id": "hotbarinfo",
+	"id": "infohotbar",
 	"version": "${version}",
-	"name": "HotBarInfo",
+	"name": "InfoHotbar",
 	"description": "Minimalist HUD utility that displays real-time player coordinates (X | Y | Z) directly above the hotbar.",
 	"authors": [
 		"StarryMoon92"
 	],
 	"contact": {
-		"homepage": "https://starrymoon92.net/",
-		"sources": "https://github.com/kK0MARU/"
+		"homepage": "https://github.com/kK0MARU/",
+		"sources": "https://github.com/kK0MARU/InfoHotbar-Mod-v1.21.10"
 	},
 	"license": "MIT",
-	"icon": "assets/hotbarinfo/icon.png",
+	"icon": "assets/infohotbar/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.starrymoon92.hotbarinfo.HotBarInfo"
+			"net.starrymoon92.infohotbar.HotBarInfo"
 		],
 		"fabric-datagen": [
-			"net.starrymoon92.hotbarinfo.HotBarInfoDataGenerator"
+			"net.starrymoon92.infohotbar.HotBarInfoDataGenerator"
 		],
 		"client": [
-			"net.starrymoon92.hotbarinfo.HotBarInfoClient"
-		]
+			"net.starrymoon92.infohotbar.HotBarInfoClient"
+		],
+	"modmenu": [
+		"net.starrymoon92.infohotbar.ModMenuIntegration"
+	]
 	},
 	"mixins": [
-		"hotbarinfo.mixins.json"
+		"infohotbar.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.4",
