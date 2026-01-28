@@ -1,4 +1,4 @@
-# InfoHotbar-Mod-v1.21.10
+# InfoHotbar-Mod
 
 # 🧭 InfoHotbar
 
@@ -62,3 +62,4 @@ The mod is fully localized for:
 ## 📜 License
 
 This mod is available under the **MIT License**. You are free to use it in any modpack.
+
